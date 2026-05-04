@@ -41,4 +41,5 @@ void angka::isiData()
         cout << i << " = ";
         cin >> arr[i];
     }
+    cout << endl;
 }
